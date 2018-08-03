@@ -1,6 +1,6 @@
 {
   "name": "@vue-materials/front-base-layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "header + content + footer",
   "author": "Demo.Ran <demo.ran@icloud.com>",
   "files": [
