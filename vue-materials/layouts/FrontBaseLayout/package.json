@@ -1,0 +1,35 @@
+{
+  "name": "@vue-materials/front-base-layout",
+  "version": "1.0.0",
+  "description": "header + content + footer",
+  "author": "Demo.Ran <demo.ran@icloud.com>",
+  "files": [
+    "src/",
+    "lib/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alibaba/ice"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ice",
+    "vue",
+    "layout"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://registry.npmjs.com"
+  },
+  "dependencies": {
+    "vue": "^2.5.16"
+  },
+  "layoutConfig": {
+    "name": "Front-Base-Layout",
+    "title": "前台基础布局",
+    "categories": [
+      "布局"
+    ],
+    "screenshot": ""
+  }
+}

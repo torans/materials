@@ -1,0 +1,36 @@
+{
+  "name": "@vue-materials/top-bar-block",
+  "version": "1.0.0",
+  "description": "头部导航",
+  "author": "SHETU <demo.ran@icloud.com>",
+  "files": [
+    "src/",
+    "lib/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alibaba/ice"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ice",
+    "vue",
+    "block"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://registry.npmjs.com"
+  },
+  "dependencies": {
+    "@vue-materials/basic-container": "^1.0.0",
+    "vue": "^2.5.16"
+  },
+  "blockConfig": {
+    "name": "top-bar",
+    "title": "头部导航",
+    "categories": [
+      "其他"
+    ],
+    "screenshot": ""
+  }
+}
