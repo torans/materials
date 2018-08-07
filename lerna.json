@@ -8,7 +8,7 @@
     "react-materials/layouts/*",
     "react-materials/scaffolds/*"
   ],
-  "commands": {
+  "command": {
     "publish": {
       "message": "chore(release): publish"
     }
