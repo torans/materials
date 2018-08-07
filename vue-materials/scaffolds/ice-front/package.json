@@ -1,6 +1,6 @@
 {
-  "name": "ice-front",
-  "version": "1.0.1",
+  "name": "ran-front",
+  "version": "1.0.2",
   "description": "",
   "author": "SHETU <demo.ran@icloud.com>",
   "scripts": {
@@ -34,5 +34,6 @@
     "title": "front",
     "screenshot": ""
   },
-  "buildConfig": {}
+  "buildConfig": {},
+  "gitHead": "5340690e32e4223786d82e44a2122297fcfb0184"
 }
