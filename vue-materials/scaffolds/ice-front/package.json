@@ -1,8 +1,8 @@
 {
-  "name": "ran-front",
-  "version": "1.0.2",
+  "name": "@vue-materials/ice-front",
+  "version": "1.0.3",
   "description": "",
-  "author": "SHETU <demo.ran@icloud.com>",
+  "author": "Demo.Ran <demo.ran@icloud.com>",
   "scripts": {
     "start": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -35,5 +35,5 @@
     "screenshot": ""
   },
   "buildConfig": {},
-  "gitHead": "5340690e32e4223786d82e44a2122297fcfb0184"
+  "gitHead": "262665b290469e9798e65a31cb06e2d88724ab77"
 }
