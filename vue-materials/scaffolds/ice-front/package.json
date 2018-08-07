@@ -1,6 +1,6 @@
 {
-  "name": "@demoran/ice-front",
-  "version": "1.0.4",
+  "name": "ice-front",
+  "version": "1.0.5",
   "description": "",
   "author": "Demo.Ran <demo.ran@icloud.com>",
   "scripts": {
@@ -35,5 +35,5 @@
     "screenshot": ""
   },
   "buildConfig": {},
-  "gitHead": "75db7a3b8d6205896e9e35285ab9730ce8428f7d"
+  "gitHead": "3cd2c2a34535548592650bac28297ac5891fa98f"
 }
